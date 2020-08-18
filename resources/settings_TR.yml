@@ -1,0 +1,41 @@
+# plugin/FakeLobbyES
+# author/emresmrlp
+# file/settings.yml
+settings:
+  update-check: true
+  join-invisibility: true
+timer:
+  enabled: true
+  duration: 3 # second
+connection:
+  goto: "Lobby"
+  connected: true
+scoreboard:
+  enabled: true
+  title: '&6&lÇAKMA LOBİ'
+  lines:
+  - '&r'
+  - ' &fOyuncu: &e%player%'
+  - ' &fGiriş: &e/login şifre'
+  - ' &fKayıt: &e/reg şifre şifre'
+  - '&b'
+  - '    &c&nwww.sunucuadı.com'
+joinquitmessage:
+  enabled: false
+  join: '&7[&a+&7] &f%player%'
+  quit: '&7[&c-&7] &f%player%'
+nametag:
+  op: '&c%player%'
+  player: '&7%player%'
+chat:
+  format: '&8[&4Yetkili&8] &c%player%&7: &f'
+  allowedcommands:
+  - fakelobby
+  - login
+  - aktar
+  - lobi
+  - lobby
+  - register
+  - l
+  - reg
+spawnloc: {}

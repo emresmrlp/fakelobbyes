@@ -1,0 +1,12 @@
+name: FakeLobbyES
+version: 2.0
+main: me.emresmrlp.fakelobbyes.FakeLobbyES
+author: emresmrlp
+depend: [AuthMe]
+commands:
+  fakelobby:
+    aliases: [cl, cakmalobi, fakelobbyes, çakmalobi, çl]
+    description: Main command.
+  lobby:
+    aliases: [aktar, lobi]
+    description: Lobby command.

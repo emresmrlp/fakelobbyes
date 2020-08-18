@@ -1,0 +1,13 @@
+# plugin/FakeLobbyES
+# author/emresmrlp
+# file/messages.yml
+noconnection: "&3ÇakmaLobi &8» &7Aktarım &cbaşarısız &7sunucuda bir problem var."
+noperm: "&3ÇakmaLobi &8» &7Yetkin yok."
+nouse: "&3ÇakmaLobi &8» &7Burada blok kıramaz veya koyamazsın."
+nocommand: "&3ÇakmaLobi &8» &7Burada sadece /aktar komutunu kullanabilirsin."
+nochat: "&3ÇakmaLobi &8» &7Burada konuşamazsın."
+reload: "&3ÇakmaLobi &8» &7Yenileme &abaşarılı&7."
+spawnready: "&3ÇakmaLobi &8» &7Doğum noktası &ahazır&7."
+cmdnotfound: "&3ÇakmaLobi &8» &7Komut bulunamadı."
+timerstart: "&3ÇakmaLobi &8» &e%duration% &7saniye içerisinde aktarılacaksın!"
+timerfinish: "&3ÇakmaLobi &8» &7Aktarılıyorsun!"
