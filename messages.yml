@@ -1,0 +1,13 @@
+# plugin/FakeLobbyES
+# author/emresmrlp
+# file/messages.yml
+noconnection: "&3FakeLobby &8» &7Transfer &cfailed &7there is a problem with the server."
+noperm: "&3FakeLobby &8» &7No permission."
+nouse: "&3FakeLobby &8» &7You can't break or put block here."
+nocommand: "&3FakeLobby &8» &7Here you can just use the /lobby command."
+nochat: "&3FakeLobby &8» &7You can't talk here."
+reload: "&3FakeLobby &8» &7Reload &acomplated&7."
+spawnready: "&3FakeLobby &8» &7FakeLobby spawn &aready&7."
+cmdnotfound: "&3FakeLobby &8» &7Command not found."
+timerstart: "&3FakeLobby &8» &7You will be transferred in &e%duration% &7seconds."
+timerfinish: "&3FakeLobby &8» &7You transferring!"
