@@ -1,8 +1,6 @@
 package me.emresmrlp.fakelobbyes;
 
 import java.io.File;
-import java.util.ArrayList;
-import java.util.List;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
@@ -34,8 +32,6 @@ public class FakeLobbyES extends JavaPlugin implements PluginMessageListener{
 	public static FakeLobbyES instance;
 	
 	ProtocolManager protocolManager;
-	
-	List<String> forbidden = new ArrayList<String>();
 	
 	private File settingsFile = new File(this.getDataFolder(), "settings.yml");
 	private YamlConfiguration settings = YamlConfiguration.loadConfiguration(settingsFile);
