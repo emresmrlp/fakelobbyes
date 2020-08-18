@@ -2,7 +2,7 @@ name: FakeLobbyES
 version: 2.0
 main: me.emresmrlp.fakelobbyes.FakeLobbyES
 author: emresmrlp
-depend: [AuthMe]
+depend: [AuthMe, ProtocolLib]
 commands:
   fakelobby:
     aliases: [cl, cakmalobi, fakelobbyes, çakmalobi, çl]
